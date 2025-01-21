@@ -1,0 +1,1 @@
+mobivision quantify -i /home/alatypova/TAIR10/TAIR10_mobi/ -t 100 -f /home/alatypova/scRNAseq/samples/202411211919_221001006_2P240529035US2S2717DX_B_MobiPlantsGerashchenko/L1 -o analysis/L1
