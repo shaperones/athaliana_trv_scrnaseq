@@ -1,7 +1,9 @@
 *.tar
 sources/samples
 sources/samples_alt_trv
+sources/samples_alt_trv_feb
 sources/atlases
 sources/old_alt_trv
 *.h5ad
 .gitattributes
+*.gz
