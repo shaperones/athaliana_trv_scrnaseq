@@ -1,9 +1,9 @@
 Mapping,reads_number,ratio
 Reads Mapped to Genome,184481932,93.92761956820529
-Reads Mapped Confidently to Genome,163046272,83.01381085075649
-Reads Mapped Confidently to Exonic Regions,143937003,73.28446700987294
-Reads Mapped Confidently to Intronic Regions,8031237,4.089045281670697
-Reads Mapped Confidently to Intergenic Regions,11078032,5.640298559212857
-Reads Mapped Confidently to Transcriptome,149643403,76.18983862265509
-Reads Mapped Antisense to Gene,9232809,4.700816832826219
+Reads Mapped Confidently to Genome,163046206,83.01377724734165
+Reads Mapped Confidently to Exonic Regions,143936937,73.28443340645809
+Reads Mapped Confidently to Intronic Regions,8030392,4.088615056132213
+Reads Mapped Confidently to Intergenic Regions,11078877,5.6407287847513405
+Reads Mapped Confidently to Transcriptome,149637111,76.186635097107
+Reads Mapped Antisense to Gene,9232807,4.7008158145409205
 total_reads,196408610,100.0
